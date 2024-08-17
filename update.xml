@@ -1,0 +1,22 @@
+<updates>
+    <update>
+        <name>mod_redirect</name>
+        <description>Admin module to document colors used in template.</description>
+        <element>mod_redirect</element>
+        <type>module</type>
+        <client>administrator</client>
+        <version>0.0.1</version>
+        <infourl title="mod_redirect">https://github.com/pe7er/mod_redirect</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/pe7er/mod_redirect/releases/download/0.0.1/mod_redirect-0.0.1.zip</downloadurl>
+        </downloads>
+        <sha512>f41e20739ea404f237bc842c843fe37948ebc56f19facd1367e5f3d75252abf18c5bd6d8bb335c0ba0bf74087d261103a8ca0a299c20257f43dc5e16ae3fc389</sha512>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Peter Martin</maintainer>
+        <maintainerurl>https://db8.nl</maintainerurl>
+        <php_minimum>8.1.0</php_minimum>
+        <targetplatform name="joomla" version="((4)|(5))" />
+    </update>
+</updates>
