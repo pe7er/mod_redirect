@@ -11,7 +11,7 @@
 	<namespace path="src">Joomla\Module\Redirect</namespace>
 	<files>
 		<folder module="mod_redirect">services</folder>
-		<folder>languages</folder>
+		<folder>language</folder>
 		<folder>src</folder>
 		<folder>tmpl</folder>
 	</files>
