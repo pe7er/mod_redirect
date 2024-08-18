@@ -5,12 +5,12 @@
         <element>mod_redirect</element>
         <type>module</type>
         <client>administrator</client>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
         <infourl title="mod_redirect">https://github.com/pe7er/mod_redirect</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/pe7er/mod_redirect/releases/download/1.0.2/mod_redirect-1.0.2.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/pe7er/mod_redirect/releases/download/1.0.3/mod_redirect-1.0.3.zip</downloadurl>
         </downloads>
-        <sha512>51b0c8f3f7d31e002604c4fc90b984bc995f4645fbfd4d5ecb5ecb458676fafea006ecf3a3557561c2dc98fe9fefd339009c7dc2ef1cd42a17d94454589bfd8d</sha512>
+        <sha512>19759f2ce8299ef9d7cfbc415117a7815f0a8ce4a9c4d002a0fee10a2572911e3f94d951cc79d5c7f64a76c0114d279d57887372bb4f901bafd3dc0e7dc42cf8</sha512>
         <tags>
             <tag>stable</tag>
         </tags>
