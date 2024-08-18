@@ -27,7 +27,7 @@ class RedirectHelper
     /**
      * Get a list of redirect links.
      *
-     * @param   Registry  &$params  The module parameters.
+     * @param   Registry  $params  The module parameters.
      *
      * @return  mixed  An array of redirect links, or false on error.
      *
