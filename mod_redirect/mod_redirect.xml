@@ -14,10 +14,6 @@
 		<folder>src</folder>
 		<folder>tmpl</folder>
 	</files>
-	<languages>
-		<language tag="en-GB">language/en-GB/mod_redirect.ini</language>
-		<language tag="en-GB">language/en-GB/mod_redirect.sys.ini</language>
-	</languages>
 	<help key="Admin_Modules:_Redirect" />
 	<config>
 		<fields name="params">
