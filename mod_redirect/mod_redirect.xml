@@ -62,4 +62,11 @@
 			</fieldset>
 		</fields>
 	</config>
+
+	<updateservers>
+		<server type="extension" name="mod_redirect">
+			https://raw.githubusercontent.com/pe7er/mod_redirect/master/update.xml
+		</server>
+	</updateservers>
+
 </extension>
