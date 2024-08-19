@@ -62,7 +62,7 @@ After installation, configure the module via:
 
 ## Changelog
 19-Aug-2024 : v1.0.4
-- added ``services`` to ``<files>``
+- Corrected XML manifest
 
 18-Aug-2024 : v1.0.3
 - Removed ``<languages>`` block from xml manifest. We'll keep the language files in the module's folder and not in Joomla's language folder.
