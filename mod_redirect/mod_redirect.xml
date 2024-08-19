@@ -12,7 +12,6 @@
 	<files>
 		<folder module="mod_redirect">services</folder>
 		<folder>language</folder>
-		<folder>services</folder>
 		<folder>src</folder>
 		<folder>tmpl</folder>
 	</files>

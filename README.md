@@ -61,9 +61,6 @@ After installation, configure the module via:
 - Save the module
 
 ## Changelog
-19-Aug-2024 : v1.0.4
-- Corrected XML manifest
-
 18-Aug-2024 : v1.0.3
 - Removed ``<languages>`` block from xml manifest. We'll keep the language files in the module's folder and not in Joomla's language folder.
 - Small doc block fix
