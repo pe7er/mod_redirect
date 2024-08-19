@@ -1,12 +1,12 @@
 <extension type="module" client="administrator" method="upgrade">
 	<name>mod_redirect</name>
 	<author>Peter Martin</author>
-	<creationDate>2024-08-18</creationDate>
+	<creationDate>2024-08-19</creationDate>
 	<copyright>(C) 2024 Peter Martin</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>joomla@db8.nl</authorEmail>
 	<authorUrl>https://db8.nl</authorUrl>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<description>MOD_REDIRECT_XML_DESCRIPTION</description>
 	<namespace path="src">Joomla\Module\Redirect</namespace>
 	<files>
