@@ -1,7 +1,7 @@
 <extension type="module" client="administrator" method="upgrade">
 	<name>mod_redirect</name>
 	<author>Peter Martin</author>
-	<creationDate>2024-08-19</creationDate>
+	<creationDate>2024-08-18</creationDate>
 	<copyright>(C) 2024 Peter Martin</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>joomla@db8.nl</authorEmail>
